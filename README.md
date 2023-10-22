@@ -25,5 +25,5 @@ I'm passionate about technology and innovations, and I love challenging myself e
 - ⚡ Fun fact: I'm a Japanese looking Mexican.
 
 <a href="https://github.com/isaipd20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyv26&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaipd20&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
