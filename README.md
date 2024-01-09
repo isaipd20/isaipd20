@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm passionate about technology and innovations, and I love challenging myself everyday. My expertise lies in software development and UX design. I'm always eager to learn and explore new technologies to solve real-world problems.
 
-- 🔭 I’m currently working on my own website and a C++ based store.
+- 🔭 I’m currently working/creating a Discord bot using python.
 - 🌱 I’m currently learning CSS, AWS, and Angular frameworks.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: isaipd20@gmail.com.
